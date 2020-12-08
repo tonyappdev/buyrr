@@ -1,0 +1,24 @@
+{
+  "name": "buyrr",
+  "version": "1.0.0",
+  "description": "Ecommerce website with reactjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyappdev/buyrr.git"
+  },
+  "author": "Anthony Enninful",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonyappdev/buyrr/issues"
+  },
+  "homepage": "https://github.com/tonyappdev/buyrr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
